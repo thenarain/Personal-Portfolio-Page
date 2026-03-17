@@ -122,7 +122,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Kartikay**
 - Email: kartiksrivastava19@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/kartikay-srivastava)
 - GitHub: [thenarain](https://github.com/thenarain)
 
 ---
